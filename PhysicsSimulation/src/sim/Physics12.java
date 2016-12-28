@@ -62,7 +62,7 @@ public class Physics12{
 	
 	GraphicsJPanel graphicsPanel;
 	Simulation simulation;
-	private int zoomAmount = 5; // amount to zoom in or out per button press
+	private int zoomAmount = 5;
 	private JFrame frmPhysics;
 	private final ButtonGroup buttonGroup = new ButtonGroup();
 	private final ButtonGroup buttonGroup_1 = new ButtonGroup();
